@@ -1,0 +1,9 @@
+.otp__container {
+  max-width: fit-content;
+}
+
+.otp__inputs {
+  min-width: 35px;
+  height: 50px;
+  padding: 1rem;
+}
